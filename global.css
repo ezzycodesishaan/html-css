@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --muli-regular-18: Mulish;
+  --font-century725-blk-bt: "Century725 Blk BT";
+  --josefin-semibold-16: "Josefin Sans";
+
+  /* font sizes */
+  --font-size-smi: 13px;
+  --font-size-base-1: 15.1px;
+  --font-size-mid-3: 17.3px;
+  --muli-regular-14-size: 14px;
+  --muli-regular-16-size: 16px;
+  --font-size-6xl: 25px;
+  --muli-regular-18-size: 18px;
+
+  /* Colors */
+  --neutral-4: #fff;
+  --solid-text: #2b2b2b;
+  --color-gray-100: #382111;
+  --color-gray-200: #070721;
+  --color-saddlebrown: #69250d;
+  --color-lightslategray: #8e8c99;
+  --color-black: #000;
+  --color-mediumslateblue: #3162ff;
+  --grey-text: #686868;
+  --additional: #c2463b;
+  --divider-1: #c1bdbd;
+  --background-1: #22374a;
+  --background-3: #f8f2ec;
+  --button-hover-additional: #0097d8;
+
+  /* border radiuses */
+  --br-2xl-6: 21.6px;
+  --br-4xs-6: 8.6px;
+  --br-base: 16px;
+  --br-xl: 20px;
+  --br-21xl: 40px;
+
+  /* Effects */
+  --drop-shadow: 5px 6px 19px rgba(62, 72, 118, 0.04);
+}
